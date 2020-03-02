@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "993085269543",
+    "firebase_url": "https://sociole-a3872.firebaseio.com",
+    "project_id": "sociole-a3872",
+    "storage_bucket": "sociole-a3872.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993085269543:android:9ca57ede93ae25aa665002",
+        "android_client_info": {
+          "package_name": "com.sociole"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993085269543-m33f3jpdi9t1eqbob178l4m953s5v67l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sociole",
+            "certificate_hash": "e331e1bb0a0287d0160c6f6a1e72c29d82b0442d"
+          }
+        },
+        {
+          "client_id": "993085269543-951vrr146lrugcs2h5boomos5lu6eb1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1e4rVWH8U2hBJBpO1Eesqb53VOAFMiAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993085269543-951vrr146lrugcs2h5boomos5lu6eb1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
